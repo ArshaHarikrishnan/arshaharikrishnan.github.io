@@ -1565,7 +1565,14 @@ footer {
 .hero-buttons .secondary-btn i {
     color: #0f172a !important;
 }
+.logo {
+    background: #2563eb !important;
+    color: #ffffff !important;
+}
 
+.logo span {
+    color: #ffffff !important;
+}
 /* =========================================================
    END OF STYLESHEET
    ========================================================= */
