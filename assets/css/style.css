@@ -1543,7 +1543,28 @@ footer {
     background: var(--primary);
 
 }
+.hero-buttons .primary-btn {
+    background: #2563eb !important;
+    color: #ffffff !important;
+}
 
+.hero-buttons .primary-btn span {
+    color: #ffffff !important;
+}
+
+.hero-buttons .primary-btn i {
+    color: #ffffff !important;
+}
+
+.hero-buttons .secondary-btn {
+    background: #ffffff !important;
+    color: #0f172a !important;
+}
+
+.hero-buttons .secondary-btn span,
+.hero-buttons .secondary-btn i {
+    color: #0f172a !important;
+}
 
 /* =========================================================
    END OF STYLESHEET
